@@ -2,14 +2,12 @@
 
 A Java implementation exploring solutions to the classic **Travelling Salesman Problem (TSP)** — given a set of cities and the distances between them, find the shortest possible route that visits every city exactly once and returns to the starting point.
 
---
 
 ## Tech Stack
 
 - **Language:** Java 21
 - **Build tool:** Maven
 
---
 
 ## Dependencies
 
@@ -21,14 +19,12 @@ A Java implementation exploring solutions to the classic **Travelling Salesman P
 | [Lombok](https://projectlombok.org/) | Reduces boilerplate (getters/setters, constructors, etc.) |
 | [JUnit Jupiter](https://junit.org/junit5/) | Unit testing |
 
---
 
 ## Prerequisites
 
 - JDK 21 or newer
 - Maven 3.6+
 
---
 
 ## Getting Started
 
@@ -51,13 +47,11 @@ A Java implementation exploring solutions to the classic **Travelling Salesman P
    mvn test
    ```
 
---
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to open a pull request or file an issue.
 
---
 
 ## License
 
