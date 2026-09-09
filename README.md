@@ -15,7 +15,6 @@ A Java implementation exploring solutions to the classic **Travelling Salesman P
 |---|---|
 | [JGraphT (guava module)](https://mvnrepository.com/artifact/org.jgrapht/jgrapht-guava) | Graph data structures and algorithms used to model cities/routes as a graph |
 | [JFreeChart](https://www.jfree.org/jfreechart/) | Charting and visualization of results (e.g. route/cost plots) |
-| [dotenv-java](https://github.com/cdimascio/dotenv-java) | Loads configuration from a `.env` file |
 | [Lombok](https://projectlombok.org/) | Reduces boilerplate (getters/setters, constructors, etc.) |
 | [JUnit Jupiter](https://junit.org/junit5/) | Unit testing |
 
