@@ -136,6 +136,6 @@ public class LinKernighanHeuristicSolver implements TspSolver {
      */
     @Override
     public String getName() {
-        return "Lin-Kernighan Variable 3-Opt (pe " + initialSolver.getName() + ")";
+        return "Lin-Kernighan Variable 3-Opt (on " + initialSolver.getName() + ")";
     }
 }

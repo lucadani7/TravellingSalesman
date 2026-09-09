@@ -123,6 +123,6 @@ public class TwoOptSolver implements TspSolver {
      */
     @Override
     public String getName() {
-        return "2-Opt Optimization (pe " + initialSolver.getName() + ")";
+        return "2-Opt Optimization (on " + initialSolver.getName() + ")";
     }
 }
